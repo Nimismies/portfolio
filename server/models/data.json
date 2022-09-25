@@ -1,0 +1,25 @@
+
+[
+   
+        {
+              "index": 1,
+              "name": "Codr Kai",
+              "msg": "This is my first tweet!",
+              "username": "codrkai"
+          },
+          {
+             "index": 2,
+              "name": "Samantha Kai",
+              "msg": "React JS is so simple!",
+              "username": "samanthakai"
+          },
+          {
+              "index": 3,
+              "name": "John K",
+              "msg": "Sweep the leg!",
+              "username": "johnk"
+          }
+        
+]
+    
+    
